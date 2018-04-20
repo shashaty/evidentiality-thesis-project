@@ -5,6 +5,7 @@ A thesis project on evidentiality for the completion of a major in Cognitive Sci
 |--------------------   | ------------------------------------- |
 | configurations.lisp   | file with configurations for testing |
 | evidential-utils.lisp | file with miscellaneous functions, wrapper functions, data collection functions |
+| evidentiality-game.asd | Lisp package asdf file                                      |
 | evidentiality-game.lisp | main file with class definitions and interaction scripts |
 | graphs                  | folder containing graphs used in the study              |
 | monitors.lisp           |  file for data monitoring                               |
